@@ -1,7 +1,6 @@
-
-site_name: My Docs
+site_name: Curse Of Strahd Notes
+site_description: Curse Of Strahd Notes
 site_url: http://tiamcdowell.github.io/CurseOfStrahdNotes/
-docs_dir: ./docs
 
 theme:
     name: 'material'
