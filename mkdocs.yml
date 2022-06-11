@@ -1,0 +1,26 @@
+site_name: My Obsidian Notes
+site_url: https://TiaMcDowell.gitlab.io/CurseOfStrahd
+site_dir: public
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+
+# Extensions
+markdown_extensions:
+  - footnotes
+  - attr_list
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.magiclink
+  - pymdownx.tasklist
+  - pymdownx.emoji
+  - admonition
+  - toc:
+    permalink: true
+
+plugins:
+  - search
+  - roamlinks
