@@ -41,3 +41,4 @@ The blog will be published through [GitHub Page](https://pages.github.com/) usin
 - [Documentation](https://mara-li.github.io/obsidian_mkdocs_publisher_docs/)
 
 [^1]: You can found the link in Repository settings > Pages. 
+Test
