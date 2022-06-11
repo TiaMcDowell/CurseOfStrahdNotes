@@ -33,11 +33,11 @@ Speculation:
 Not much today
 -----------
 Player question: What's your character shoe situation?
-Tues: Curly toed thigh highed boots
-Gura: Barefoot
-Grog: Flop flops
-Heiro: Sturdy, durable knee highs
-Goghmah: Sturdy, drable boots (with repairs)
+[[Tuesday]]: Curly toed thigh highed boots
+[[Gura]]: Barefoot
+[[Grog]]: Flop flops
+[[Heiro]]: Sturdy, durable knee highs
+[[Ghogmuh]]: Sturdy, drable boots (with repairs)
 
 Memes:
 Whenever Ibrahim rolls a religion check, he rolls a nat 20 (this happened last campaign too) 

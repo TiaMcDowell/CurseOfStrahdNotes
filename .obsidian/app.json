@@ -3,5 +3,6 @@
   "livePreview": true,
   "spellcheckDictionary": [
     "tortle"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }

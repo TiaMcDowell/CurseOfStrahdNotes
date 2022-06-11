@@ -7,12 +7,8 @@
         "id": "9955379e8f5c9c3f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Events/Tarroka Card Readings.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "walter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Tarroka Card Readings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "9955379e8f5c9c3f",
   "lastOpenFiles": [
-    "Events/Tarroka Card Readings.md",
-    "Locations/Towns/Borovia(town).md",
-    "Session Notes/Session 10.md",
-    "NPCs/Blinksy.md",
-    "Locations/Castle Ravenloft.md",
-    "Session Notes/Session 9.md",
-    "Session Notes/Session 11.md",
-    "Session Notes/Session 8.md",
-    "Session Notes/Session 7.md",
-    "NPCs/Order of the Silver Dragon revenant.md"
+    "Session Notes/Session 6.md",
+    "Session Notes/Session 5.md",
+    "Locations/Towns/Valaki.md",
+    "Session Notes/Session 4.md",
+    "NPCs/Ismark.md",
+    "Session Notes/Session 3.md",
+    "Session Notes/Session 2.md",
+    "Grogmuh.md",
+    "Session Notes/Session 1.md",
+    "Events/Tarroka Card Readings.md"
   ]
 }

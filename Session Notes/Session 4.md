@@ -12,7 +12,7 @@ Found treasure:
  -25gp, 11sp
  -carmelian black eyepatch
  -3 moss agate wrapped in black cloth
-Also, exploration revealed a painting/statue of Strahd
+Also, exploration revealed a painting/statue of [[Strahd]]
 Heard chanting from deeper down("One must die" and "he is the ancient/land")
 investigated chanted
 Investigation revealed a very angry large plant. (shambling mound)
@@ -22,7 +22,7 @@ Ran away from shambling mound
 house turned back to normal, where the doors are replaced with saws and 
 breaking walls turns them into rats
 Party escaped, Three-Gees climbed out of window with rope
-Heiro and Tuesday braved the saws and left throught the front door. 
+[[Heiro]] and [[Tuesday]] braved the saws and left throught the front door. 
 In hindsight, should have just jumped out the window 
  -(3d6 bludgeoning damage isn't the worst)
 Found gift basket outside.
@@ -34,18 +34,18 @@ Fog clears, and there's a whole town here, though most of it is boarded up (oops
 Gift basket contained 2 health potions (1d4+4 healing?)
 Went to tavern, everyone was pale inside
 Barkeeps name was Arick, b
-Met Ismark the Lesser, (son of Indirovich), invited us to his house/Manor
+Met [[Ismark]] the Lesser, (son of Indirovich), invited us to his house/Manor
 Went with him...
 ---------
 The Indirovich manor
 Has definetly seen better days, mostly boarded up, burn marks
-Met Ireena 
+Met [[Ireena]] 
 Lots of holy symbols inside (sign of sunrise)
 Learned somethings:
  -Castle in distance is were Strahd (the devil) lives
  -Don't invite people places (superstition)
  -Vampyres hate the sun and drink blood
- -Strahd has kidnapped Ireena twice
+ -[[Strahd]] has kidnapped [[Ireena]] twice
  -Town of Olakey is about 6hours walking march away
  -Visitors like us arrive every year
 Decided to help the siblings, (seem like allies) in two regards:
