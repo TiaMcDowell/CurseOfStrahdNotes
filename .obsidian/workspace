@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Session Notes/Session 3.md",
+            "file": "Events/Tarroka Card Readings.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 3.md",
+                "file": "Events/Tarroka Card Readings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "9955379e8f5c9c3f",
   "lastOpenFiles": [
-    "Session Notes/Session 3.md",
-    "Session Notes/Session 1.md",
-    "Session Notes/Session 2.md",
     "Events/Tarroka Card Readings.md",
-    "Locations/Vasani camp 1.md",
-    "Locations/Vasani camp 2.md",
-    "NPCs/Arrigal.md",
     "Locations/Towns/Borovia(town).md",
-    "Locations/Death House.md",
-    "Locations/Borovia(valley).md"
+    "Session Notes/Session 10.md",
+    "NPCs/Blinksy.md",
+    "Locations/Castle Ravenloft.md",
+    "Session Notes/Session 9.md",
+    "Session Notes/Session 11.md",
+    "Session Notes/Session 8.md",
+    "Session Notes/Session 7.md",
+    "NPCs/Order of the Silver Dragon revenant.md"
   ]
 }
