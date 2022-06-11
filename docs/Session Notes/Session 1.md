@@ -8,9 +8,7 @@ Notes: I'm taking them this campaign! Session 1: Tavern (Daggerford) Party met u
     
     Speculation~ Vampyres (and MM1) intercepted KL2 and replaced it with KL1 to draw marks (us) into Barovia - explains different tone of notes, messages and most importantly, differings Seal1 and Seal2 - Does not explain why the handwriting is the same (forgery, suggestion spell?) MM1 works with Vampyre out of devotion (see quote about when he is asked about Barovia
     
-4.  ![](https://cdn.discordapp.com/avatars/235903921028202496/bd71c5cf21a8521c37a88b22d1499eef.webp?size=96)
-    
-    ## Alexander _—_ 03/28/2022
+
     
     ![:Arrigal:](https://cdn.discordapp.com/emojis/951559622551031839.webp?size=128&quality=lossless)
     
@@ -22,9 +20,7 @@ Notes: I'm taking them this campaign! Session 1: Tavern (Daggerford) Party met u
     
     I should also clarify the divine sense info more, since I'm unhappy with the description I gave. The house and the entryway you were standing all gave off a putrid sense of undeath. You can't tell the location of this stuff when it's behind total cover, but your divine sense is definitely warning you about something
     
-7.  ![](https://cdn.discordapp.com/avatars/251120401491558400/f10a6e3521a3c42a1b43bab3e04b238f.webp?size=96)
-    
-    ## Ibrahim - Tuesday"Tues"Silvereye _—_ 03/28/2022
+
     
     got it (edited)
     

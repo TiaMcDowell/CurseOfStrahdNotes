@@ -7,8 +7,12 @@
         "id": "9955379e8f5c9c3f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "docs/Session Notes/Session 1.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "592f954a892bec58",
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Session Notes/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +89,15 @@
   },
   "active": "9955379e8f5c9c3f",
   "lastOpenFiles": [
+    "docs/Session Notes/Session 1.md",
+    "docs/Session Notes/Session 5.md",
+    "docs/Session Notes/Session 4.md",
+    "docs/Session Notes/Session 3.md",
+    "docs/Session Notes/Session 2.md",
     "Session Notes/Session 6.md",
     "Session Notes/Session 5.md",
     "Locations/Towns/Valaki.md",
     "Session Notes/Session 4.md",
-    "NPCs/Ismark.md",
-    "Session Notes/Session 3.md",
-    "Session Notes/Session 2.md",
-    "Grogmuh.md",
-    "Session Notes/Session 1.md",
-    "Events/Tarroka Card Readings.md"
+    "NPCs/Ismark.md"
   ]
 }
