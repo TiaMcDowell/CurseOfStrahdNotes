@@ -2,7 +2,8 @@
   "legacyEditor": false,
   "livePreview": true,
   "spellcheckDictionary": [
-    "tortle"
+    "tortle",
+    "Strahd"
   ],
   "alwaysUpdateLinks": true
 }
