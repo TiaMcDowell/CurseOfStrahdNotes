@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "8c557c11e3f9d94e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9955379e8f5c9c3f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Session Notes/Session 3.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f626c2e6fd7c2863",
+    "type": "split",
+    "children": [
+      {
+        "id": "52dfedeb54368007",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9b9f3c45f7c03bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "95e9a51a0a38f12f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "592f954a892bec58",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2243d2c482ada24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "860d5fbe52d9a405",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Session Notes/Session 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9955379e8f5c9c3f",
+  "lastOpenFiles": [
+    "Session Notes/Session 3.md",
+    "Session Notes/Session 1.md",
+    "Session Notes/Session 2.md",
+    "Events/Tarroka Card Readings.md",
+    "Locations/Vasani camp 1.md",
+    "Locations/Vasani camp 2.md",
+    "NPCs/Arrigal.md",
+    "Locations/Towns/Borovia(town).md",
+    "Locations/Death House.md",
+    "Locations/Borovia(valley).md"
+  ]
+}
