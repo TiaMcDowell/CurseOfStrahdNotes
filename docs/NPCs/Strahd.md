@@ -1,1 +1,0 @@
-Strahd von simpavich is a v
