@@ -1,1 +1,1 @@
-Strahd von simpavich is a vamp
+Strahd von simpavich is a vampsire
