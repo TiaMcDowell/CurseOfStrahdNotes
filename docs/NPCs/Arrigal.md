@@ -1,1 +1,1 @@
-Gave us the letter that brought us to borovia in [[Session 1]], next found 
+Gave us the letter that brought us to borovia in [[Session 1]], next found in [[Session 10]] in [[Vasani camp 2]] 
