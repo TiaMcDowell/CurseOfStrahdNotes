@@ -1,1 +1,1 @@
-Strahd 
+Strahd von simpa
