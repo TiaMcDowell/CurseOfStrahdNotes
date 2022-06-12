@@ -1,1 +1,1 @@
-Strahd von simpavivh
+Strahd von simpavich
