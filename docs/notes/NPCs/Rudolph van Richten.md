@@ -1,0 +1,1 @@
+Famous figure in Faerun, monster hunter, writes books

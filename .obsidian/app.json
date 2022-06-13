@@ -3,7 +3,9 @@
   "livePreview": true,
   "spellcheckDictionary": [
     "tortle",
-    "Strahd"
+    "Strahd",
+    "Blinksy",
+    "Faerun"
   ],
   "alwaysUpdateLinks": true
 }

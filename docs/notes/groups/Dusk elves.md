@@ -1,0 +1,1 @@
+in [[Vasani camp 2]], not native to fayrune, very few left
