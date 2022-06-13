@@ -1,0 +1,1 @@
+Vampire spawn, really strong, will reduce max HP till line rest
