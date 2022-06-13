@@ -1,1 +1,1 @@
-Met in [[Session 6]], he made friends with [[Heiro]] and told the party to go to [[Argynvostholt]] and light the beacon.
+Met in [[Session 06]], he made friends with [[Heiro]] and told the party to go to [[Argynvostholt]] and light the beacon.
