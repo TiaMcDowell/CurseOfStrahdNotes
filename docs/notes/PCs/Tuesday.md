@@ -3,6 +3,7 @@ Age: ~17ish
 Birthday: Unknown, he celebrates Tuesday's as his "Found Day"
 Class: Feylock lv 5
 Race: Variant Human
+Interests: The flute
 Likes: [[Blueberry]], his other party members, sweets, tea, flowers, animals (particularly spiders), clever tricks
 Dislikes: Silence, being misunderestimated, mosquitoes, hot days
 Sex: Male
