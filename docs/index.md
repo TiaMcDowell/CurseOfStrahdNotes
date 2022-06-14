@@ -83,12 +83,12 @@ echo "you are now ready to make changes :)"
 ```
 
 #### Step 4b:
-**AFTER** you are completely done editing the notes for a session, run the following commands. If you do not run these commands, your changes will not be saved to GitHub and will not show up on the website
+**AFTER** you are completely done editing the notes for a session, run the following commands, **changing** NAME and NUMBER to the same thing you changed it to in 4a. If you do not run these commands, your changes will not be saved to GitHub and will not show up on the website
 ```
 cd ~/Documents/CurseOfStrahdNotes
 git add .
 git commit -m "session notes"
-git push
+git push --set-upstream origin NAME-session-NUMBER
 echo "your changes have been saved, and in a few minutes be up on the website."
 ```
 
