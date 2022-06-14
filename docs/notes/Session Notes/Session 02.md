@@ -1,3 +1,6 @@
+#session
+Prev: [[Session 01]]
+Next: [[Session 03]]
 Hannah - Ghogmuh — 04/04/2022
 - Session started back at Durst Manor “[[Death House]]”
 - Learnt, the children are Rosavalda ("Rose") and Thornboldt ("Thorn") and Walter. Gustav and Elisabeth Durst are the parents 

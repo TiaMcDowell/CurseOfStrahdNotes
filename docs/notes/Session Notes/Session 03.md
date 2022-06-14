@@ -1,3 +1,6 @@
+#session
+Prev: [[Session 02]]
+Next: [[Session 04]]
 There aren't many this time
 Session 3 notes
 
