@@ -1,0 +1,3 @@
+#Towns
+key npcs:
+	[[Blinksy]]

@@ -1,3 +1,6 @@
+#session
+Prev: [[Session 03]]
+Next: [[Session 05]]
 Character question: What's your home like
 The Three-Gees: All live in a small hobbit-esque home (lots of hunching for Ghogmah)
 Heiro: Considers the cathedral his home (Notre-Dame?)

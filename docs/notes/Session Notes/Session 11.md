@@ -1,3 +1,6 @@
+#session
+Prev: [[Session 10]]
+Next:
 - Session starts in [[Vasani camp 2]]
 - Character questions - romantic vibes?:
   - [[Gura]]: 50s housewife
