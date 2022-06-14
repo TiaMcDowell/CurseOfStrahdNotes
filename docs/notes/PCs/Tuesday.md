@@ -19,8 +19,8 @@ And the rest is history
 /----------------
 Character specific events
 While the party was getting their fortunes read, he met a Vistani
-woman named Umbridge, who is a "merchant of information"
-Also met Strahd, and talked about the relations Tuesday had with 
+woman named [[Umbridge]], who is a "merchant of information"
+Also met [[Strahd]], and talked about the relations Tuesday had with 
 the other party members
 
 
