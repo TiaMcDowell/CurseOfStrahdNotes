@@ -1,4 +1,5 @@
-The Tarroka Card Readings reading that happened in [[Vasani camp 1]], the outcome is as follows
+# Tarroka Card Readings
+The Tarroka Card Readings reading that happened in [[Vastani camp 1]], the outcome is as follows
 
 **Holy Symbol: "I see a fallen house guarded by a great stone dragon. Look to the highest peak."**
 - It is [[Argynvostholt]], found the holy amulet

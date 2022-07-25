@@ -1,3 +1,7 @@
+# Session 13
+#session
+Prev: [[Session 12]]
+Next: [[Session 14]]
 [[Grog]] walks in front the dragon on the roof of [[Argynvostholt]] and it says
 "	When the dragon dreams its dream
     Within its rightful tomb,

@@ -1,3 +1,7 @@
+# Session 14
+#session
+Prev: [[Session 13]]
+Next: [[Session 15]]
 - Starts with a battle in [[Argynvostholt]] in combat with one of the undead folk
 - party decided to go to the winery to find a safe place for [[Blinksy]]
 - We notice fly above it, blues tells us the crow feels worried, encountered a similar bird in front of [[Old bone grinder]]. 

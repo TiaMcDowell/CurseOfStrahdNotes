@@ -1,3 +1,4 @@
+# Vasili von holt
 Met while he was alone in the woods fighting wolves
 slimy
 took a walk in the forest after interaction
@@ -6,3 +7,4 @@ flirted with [[Ireena]]
 bought a second edition of [[Rudolph van Richten]]'s guide to monsters
 is super sketch
 has a place in [[Krezk]] and [[Valaki]]
+Saw leasing a mob in [[Session 14]] to kill a vampire spawn

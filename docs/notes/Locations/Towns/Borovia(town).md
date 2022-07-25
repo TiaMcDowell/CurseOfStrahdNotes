@@ -1,3 +1,4 @@
+# Borovia(town)
 #Towns
 key npcs:
 	[[Ireena]]

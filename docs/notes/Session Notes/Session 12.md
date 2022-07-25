@@ -1,5 +1,9 @@
+# Session 12
+#session
+Prev: [[Session 11]]
+Next: [[Session 13]]
 - Party starts off at level 5
-- party starts in [[Vasani camp 2]]
+- party starts in [[Vastani camp 2]]
 - party plans to head to [[Argynvostholt]]
 - Party fights a mad druid and twig blights
 	- They win :)
