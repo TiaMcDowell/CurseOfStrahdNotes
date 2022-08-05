@@ -1,0 +1,1 @@
+The right hand of [[Strahd]] not a [[Vampires]] or [[Vampire spawn]]
