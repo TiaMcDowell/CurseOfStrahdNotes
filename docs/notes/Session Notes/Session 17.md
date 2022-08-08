@@ -10,4 +10,4 @@ Party goes back to [[Daedi]]'s house, ate stew. Party learned that [[Ezmerelda d
 
 [[Ezmerelda d'Avenir]]'s cart is filled with alchemists fire so if you open the door it will explode.
 
-After the party gets a long rest the party hears a man yelling outside, found out his name is [[Rictavio]], a bard traveler. He lied and claimed he killed 3 werewolves on the way here. He was invited into [[Daedi]]'s home. 
+After the party gets a long rest the party hears a man yelling outside, found out his name is [[Rictavio]], a bard traveler. He lied and claimed he killed 3 werewolves with his fingernail on the way here. He was invited into [[Daedi]]'s home. 
