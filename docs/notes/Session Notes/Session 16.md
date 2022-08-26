@@ -1,3 +1,8 @@
+# Session 16
+#session
+Prev: [[Session 15]]
+Next: [[Session 17]]
+
 Character question: 2.  What does your character want?
 [[Heiro]]: Heiro wants to find out why he is still here, easy answer. Nobody else in his village is, after all!
 [[Gura]]: Wants to go home, but also wants to be happy where she is. Refuses to be sad in [[Borovia(valley)]].

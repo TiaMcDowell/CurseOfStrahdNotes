@@ -1,0 +1,18 @@
+- party starts in front of [[Vasili von holt]]s house.
+- party decides to go find [[Rictavio]]
+- party debates weather or now [[Vasili von holt]] is [[Strahd]].
+- party goes to burglemasters mansion to find [[Rictavio]]
+- [[Rictavio]] heading to the winery on a task from the burglemaster
+	- he offers us to come with him
+- party plans to go get [[Ezmerelda d'Avenir]]s cart, asks [[Rictavio]] to wait
+
+- party goes to the tower [[Lake Baratok]]
+- [[Daedi]] finds a head of a [[Vastani]] man in a locked chest on the 4th floor
+- [[Rudolph van Richten]] is raciest against [[Vastani]] and has kept thier heads arround for information
+- in [[Ezmerelda d'Avenir]]  there is a note from [[Rudolph van Richten]]![[Pasted image 20220821195642.png]]
+- [[Ezmerelda d'Avenir]] has left borovia before, the [[Vastani]] can freely
+- usually people are lured into [[Borovia(valley)]] by [[Vastani]]
+- many of the [[Valaki]] people are outside of [[Krezk]] begging for enterence becuase of [[Strahd]]s attak on [[Valaki]]
+- part of [[Strahd]]s curse, his land is full of the dull(souless)
+- party talks to the burgemaster(demitri)
+- Party talks to the burgelaster, he doesnt like us very much because we insulted him, but aggreed to allow people into [[Krezk]]
