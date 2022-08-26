@@ -1,3 +1,8 @@
+# Session 16
+#session
+Prev: [[Session 15]]
+Next: [[Session 17]]
+
 Character question: 2.  What does your character want?
 [[Heiro]]: Heiro wants to find out why he is still here, easy answer. Nobody else in his village is, after all!
 [[Gura]]: Wants to go home, but also wants to be happy where she is. Refuses to be sad in [[Borovia(valley)]].
@@ -13,7 +18,7 @@ Character question: 2.  What does your character want?
 
 [[Gura]] dies, last hearing "I hope you see waterfalls" by [[Ghogmuh]]
 
-[[Ghogmuh]] runs, finds the rest of the party. [[Grog]] tries to go back for her, but [[Grog]] and [[Tuesday]] convince her that she is dead, and there is no saving her. The party decides to look for [[Ireena]] in [[Krezk]]. The party meets the burglemaster.
+[[Ghogmuh]] runs, finds the rest of the party. [[Grog]] tries to go back for her, but [[Grog]] and [[Tuesday]] convince her that she is dead, and there is no saving her. The party decides to look for [[Ireena]] in [[Krezk]]. The party meets the [[Burgomaster Demetri]].
 
 The party gets to [[Krezk]] and tries to convince the guards to be let in. [[Ireena]] entered [[Krezk]] with [[Vasili von holt]]. 
 

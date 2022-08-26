@@ -1,3 +1,8 @@
+# Session 17
+#session
+Prev: [[Session 16]]
+Next: [[Session 18]]
+
 Session opens with a cut scene about [[Blinksy]] seeing [[Rahadin]] and not telling him where the amulet is. We don't know if [[Blinksy]] is alive, there is a chance he is not.
 
 Party meets [[Daedi]] and invites her to go to [[Vasili von holt]]'s mansion with them. She tags along. 

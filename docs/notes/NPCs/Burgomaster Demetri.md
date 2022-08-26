@@ -1,0 +1,1 @@
+The Burgomaster of [[Krezk]]
