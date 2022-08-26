@@ -19,4 +19,4 @@ Next: [[Session 20]]
 - many of the [[Valaki]] people are outside [[Krezk]] begging for entrance because of [[Strahd]]s attack on [[Valaki]]
 - part of [[Strahd]]s curse, his land is full of the dull (souless)
 - party talks to the [[Burgomaster Demetri]]
-- Party talks to [[Burgomaster Demetri]], he doesn't like us very much because we insulted and balck mailed him, but agreed to allow people into [[Krezk]]
+- Party talks to [[Burgomaster Demetri]], he doesn't like us very much because we insulted and blackmailed him, but agreed to allow people into [[Krezk]]
