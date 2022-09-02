@@ -17,6 +17,6 @@ While attempting to open the door by dancing, we did the dance on the door, noth
 
 The party struggles to find a way to save [[Gura]] and [[Grog]] from the dragon's watch.
 
-As they are trying to escape the dragon, [[Blueberry]] spots a [[Vastani]] woman with a long sword walking down the path they came.
+As they are trying to escape the dragon, [[Blueberry]] spots a [[Vistani]] woman with a long sword walking down the path they came.
 
 Party gets [[Grog]] and [[Gura]], they run off, [[Blinksy]] is in the area, but not with the group. He was instructed to go down the road.
