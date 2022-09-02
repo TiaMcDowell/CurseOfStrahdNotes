@@ -8,6 +8,6 @@ gets 'board' in his realm. like the civilization benith him.
 Stahds father named Barov Von Zarovich 
 Queen Ravenovia <- Ravenloft named after the queen
 
-The [[Vastani]] took him in when he was human and he promises that they could always walk his lands, therefore they can enter and exit as they please.
+The [[Vistani]] took him in when he was human and he promises that they could always walk his lands, therefore they can enter and exit as they please.
 
 [[Strahd]] is not omnipotent 

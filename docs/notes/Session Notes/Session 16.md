@@ -12,7 +12,7 @@ Character question: 2.  What does your character want?
 
 [[Ghogmuh]] and [[Gura]] go into the forest and look for [[Blinksy]]. Find his trail and his hat.
 
-[[Tuesday]] and [[Grog]] go to talk to the [[Vastani]] woman on the road named [[Ezmerelda d'Avenir]]. They follow the tracks of [[Ireena]] towards [[Krezk]]. She is the owner of the cart at the [[Lake Baratok]] tower.
+[[Tuesday]] and [[Grog]] go to talk to the [[Vistani]] woman on the road named [[Ezmerelda d'Avenir]]. They follow the tracks of [[Ireena]] towards [[Krezk]]. She is the owner of the cart at the [[Lake Baratok]] tower.
 
 [[Gura]] and [[Ghogmuh]] see a half elf with a bunch of skeletons. He's the right hand to [[Strahd]] named [[Rahadin]]. They are chased by skeletons. [[Gura]] is left unconscious, [[Ghogmuh]] grabs the amulet and runs through the forest. Before [[Gura]] falls completely unconscious she sees [[Rahadin]] standing over her, dismissing the skeletons.
 

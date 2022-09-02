@@ -11,11 +11,11 @@ Next: [[Session 20]]
 - party plans to go get [[Ezmerelda d'Avenir]]s cart, asks [[Rictavio]] to wait.
 
 - Party goes to the tower [[Lake Baratok]]
-- [[Daedi]] finds a head of a [[Vastani]] man in a locked chest on the 4th floor
-- [[Rudolph van Richten]] is raciest against [[Vastani]] and has kept their heads around for information
+- [[Daedi]] finds a head of a [[Vistani]] man in a locked chest on the 4th floor
+- [[Rudolph van Richten]] is raciest against [[Vistani]] and has kept their heads around for information
 - in [[Ezmerelda d'Avenir]] there is a note from [[Rudolph van Richten]]![[Pasted image 20220821195642.png]]
-- [[Ezmerelda d'Avenir]] has left [[Borovia(valley)]] before, the [[Vastani]] can freely
-- usually people are lured into [[Borovia(valley)]] by [[Vastani]]
+- [[Ezmerelda d'Avenir]] has left [[Borovia(valley)]] before, the [[Vistani]] can freely
+- usually people are lured into [[Borovia(valley)]] by [[Vistani]]
 - many of the [[Valaki]] people are outside [[Krezk]] begging for entrance because of [[Strahd]]s attack on [[Valaki]]
 - part of [[Strahd]]s curse, his land is full of the dull (souless)
 - party talks to the [[Burgomaster Demetri]]

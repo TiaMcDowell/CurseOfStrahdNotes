@@ -1,2 +1,2 @@
 # Ezmerelda d'Avenir
-[[Vastani]] woman. found on the path to [[Lake Baratok]]
+[[Vistani]] woman. found on the path to [[Lake Baratok]]
