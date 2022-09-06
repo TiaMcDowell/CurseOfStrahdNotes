@@ -8,5 +8,5 @@ Next: [[Session 21]]
 - They look through the window, see a bunch of [[Blights]]
 - [[Rictavio]] tries to run again, [[Daedi]] catches him
 - [[Rictavio]] sees a bunch of [[Blights]] and attacks
-- Party fights many [[Blights]] and a druid
+- Party fights many [[Blights]] and a [[Druids]]
 - Session end half way through battle
