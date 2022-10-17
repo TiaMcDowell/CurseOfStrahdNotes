@@ -13,6 +13,9 @@ The Party meets the winemaker family and meet [[Silvia]]. [[Silvia]] and her fam
 
 [[Rictavio]] pulls the party into a room and reveals himself as [[Rudolph van Richten]]. 
 
+- [[Rudolph van Richten]] hate the [[Vistani]] because they lead to the death of his son
+- [[Rudolph van Richten]] doesnt trust [[Silvia]] and her family
+
 [[Rudolph van Richten]] tells us:
 
 - [[Strahd]] has scrying and teleportation abilities
