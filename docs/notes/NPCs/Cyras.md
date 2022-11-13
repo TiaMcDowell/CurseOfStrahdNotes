@@ -1,0 +1,1 @@
+Is insecure about intelligence
