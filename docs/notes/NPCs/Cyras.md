@@ -1,1 +1,1 @@
-Is insicure about his intelegence
+Is insecure about intelligence
