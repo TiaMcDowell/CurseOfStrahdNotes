@@ -6,15 +6,15 @@ The party escaped the elevator throught a trap door in the roof. They find a ima
 
 Leaf the lords accountant in one of the rooms.
 
-Cyras tries to feed leaf bad things Cyras is 3-4 feet tall and funny looking. There used to be a family called the bellveiws that wanted to be better than humans, A monter transformed them into animal like people
+Cyras tries to feed leaf bad things Cyras is 3-4 feet tall and funny looking. There used to be a family called the Bellvews that wanted to be better than humans, A monter transformed them into animal like people
 
 Sometimes [[Strahd]]s brides come through, but theyve been ordered not to touch him. They are mad, they are pale, wear ornate gowns with colour, and are always laughing. None of them have red hair. [[Strahd]] has at least 3 brides.
 
-The count has the gold and silver forged into eliriums, to help with scrying and werewolves.
+The count has the gold and silver forged into eliriums, To hinder clerics and other costed spells and werewolves.
 
 [[Strahd]] has been taxing [[Valaki]] heavely. 
 
-strahd counts how much parchant he gives leaf, so hes not passing notes
+strahd counts how much parchment he gives leaf, so hes not passing notes
 
 The count has been sending many resources to a mounted near [[kresk]] every few years. [[Strahd]] has been trying to hide it
 
