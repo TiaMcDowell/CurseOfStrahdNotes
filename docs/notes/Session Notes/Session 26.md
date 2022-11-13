@@ -1,8 +1,8 @@
 Party starts after having dinner with [[Strahd]]
 
-[[Silvia]], [[Tuesday]], and [[Heiro]] get stuck in an elevator in the basement, a gas is released causeing them to go to sleep. [[Daedi]] ties a rope to the eleavator in order to be carried with them
+[[Silvia]], [[Tuesday]], and [[Heiro]] get stuck in an elevator in the basement, a gas is released causing them to go to sleep. [[Daedi]] ties a rope to the eleavator in order to be carried with them
 
-The party escaped the elevator throught a trap door in the roof. They find a image of [[Strahd]] when he was alive. [[Heiro]] attempts to move the painting and the painting and the rug attack us
+The party escaped the elevator through a trap door in the roof. They find a image of [[Strahd]] when he was alive. [[Heiro]] attempts to move the painting and the painting and the rug attack us
 
 Leaf the lords accountant in one of the rooms.
 
@@ -12,7 +12,7 @@ Sometimes [[Strahd]]s brides come through, but theyve been ordered not to touch 
 
 The count has the gold and silver forged into eliriums, To hinder clerics and other costed spells and werewolves.
 
-[[Strahd]] has been taxing [[Valaki]] heavely. 
+[[Strahd]] has been taxing [[Valaki]] heavily. 
 
 strahd counts how much parchment he gives leaf, so hes not passing notes
 
