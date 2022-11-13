@@ -1,10 +1,10 @@
-Party starts talking to [[Cyras]] 
+Party starts talking to [[Cyrus]] 
 
-[[Silvia]] starts to bully [[Cyras]]
+[[Silvia]] starts to bully [[Cyrus]]
 
 [[Strahd]] said that without the gems there was no wine being made, and he took all three.
 
-The party agrees to have [[Cyras]] show them the way to the dragon skull in exchange for a bottle of wine. He shows us to a room filled with human bone, a bone table with bone chairs. And a Dragon skull. The human bones are all people [[Strahd]] has killed.
+The party agrees to have [[Cyrus]] show them the way to the dragon skull in exchange for a bottle of wine. He shows us to a room filled with human bone, a bone table with bone chairs. And a Dragon skull. The human bones are all people [[Strahd]] has killed.
 
 [[Daedi]] and [[Silvia]] dimension door out. The rest of the party try to run out. They get attacked my Gargoyles in the entrance hall.
 
