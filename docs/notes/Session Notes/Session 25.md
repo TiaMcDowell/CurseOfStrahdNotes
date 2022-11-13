@@ -5,8 +5,8 @@ Next: [[Session 26]]
 
 Party starts in the [[bluewater inn]]
 
-The abett is a servent of strahd
-[[Vasili von holt]] and all his ancensters are [[Strahd]]
+The Abbot is a servent of strahd
+[[Vasili von holt]] and all his ancestors are [[Strahd]]
 
 [[Strahd]] wants to find a successor
 
@@ -14,5 +14,5 @@ The abett is a servent of strahd
 
 [[Ireena]] is the reincarnation of tatyana. 
 
-In berez, one of the reincarnations, her father killed her before stahd could get her and strahd flooded the place.ss
+In berez, one of the reincarnations, her father killed her before stahd could get her and strahd flooded the place.
 
