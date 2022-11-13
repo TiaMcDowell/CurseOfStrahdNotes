@@ -1,0 +1,1 @@
+Is insicure about his intelegence

@@ -1,0 +1,1 @@
+From the [[Order of the Silver dragon]], told him we were going to the amber temple. Became the ememy and tried to fight us into not going to the amber temple.
