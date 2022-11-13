@@ -29,7 +29,7 @@ The mage has wiped his memory in order to aviod strahd, cant scry on someone you
 The Mage wants us to get in magic book and wand
 We gave him the magic spellbook we found in Vasili's house
 He said it seemed like his
-we got a spell of inlarge reduce
+we got a spell of enlarge reduce
 we made our way to bluewater inn
 
 
