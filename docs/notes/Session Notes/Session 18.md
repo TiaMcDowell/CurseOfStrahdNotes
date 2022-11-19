@@ -3,7 +3,7 @@
 Prev: [[Session 17]]
 Next: [[Session 19]]
 
-[[Rictavio]] entered [[Borovia(valley)]] 34 days ago. Party entered 7 days ago. [[Rictavio]] shows us his saber tooth lion. [[Daedi]] sees it on strings. Served it werewolf meat. Was warned to stay away from the abbey. He would preform around noon. 
+[[Rictavio]] entered [[Borovia(valley)]] 34 days ago. Party entered 7 days ago. [[Rictavio]] shows us his saber tooth lion. [[Daedi]] sees it on strings. Served it werewolf meat. Was warned to stay away from the [[abbey]]. He would preform around noon. 
 
 [[Ezmerelda d'Avenir]] was trained by [[Rudolph van Richten]].
 
