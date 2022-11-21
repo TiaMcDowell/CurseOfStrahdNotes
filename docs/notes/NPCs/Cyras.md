@@ -1,3 +1,3 @@
 Is insecure about intelligence
 
-One of the Bellvews
+One of the Bellviews
